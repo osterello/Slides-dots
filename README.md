@@ -1,3 +1,3 @@
 # slides-dots
 
-This is a jQuery app that changes DIV by sliding and updates dots
+This is a jQuery carousel that changes DIV sliding and updates dots
